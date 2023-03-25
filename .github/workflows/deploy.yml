@@ -12,7 +12,8 @@ jobs:
         run: npm install
       - name: Build
         run: npm run build
-      # merge assets folder with dist/assets
+      - name: Generate PDF
+        run: npm run export
       - name: Merge assets
         run: |
           cp -r assets/* dist/assets/

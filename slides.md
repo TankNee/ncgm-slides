@@ -1,6 +1,6 @@
 ---
 theme: academic
-download: true
+download: './slides-export.pdf'
 layout: cover
 coverBackgroundUrl: assets/bg.webp
 class: 'text-white'
