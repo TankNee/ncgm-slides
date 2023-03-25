@@ -12,6 +12,10 @@ jobs:
         run: npm install
       - name: Build
         run: npm run build
+      # merge assets folder with dist/assets
+      - name: Merge assets
+        run: |
+          cp -r assets/* dist/assets/
       - name: Deploy pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
