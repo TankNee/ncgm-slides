@@ -5,7 +5,7 @@ figureUrl: assets/structure2.png
 figureFootnoteNumber: 1
 ---
 
-## Model Architecture
+## 2. Model Architecture
 
 1. Three modality: **Geometry**, **Appearance** and **Content**
 2. Collaborative block: **ECE** (Intra modality) and **CCS** (Inter modality)
@@ -46,6 +46,14 @@ $\mathbf{F}^{\mathrm{C}} \in$ $\mathbb{R}^{N \times d}$, The Content modality ma
 <Footnotes separator>
   <Footnote><span class="katex mord mathnormal" style="margin-right: 0.10903em;">N</span> denotes the number of text segment bounding boxes.</Footnote>
 </Footnotes>
+
+---
+layout: figure
+figureCaption: Three modalities
+figureUrl: assets/modality1.svg
+---
+
+## Feature Extraction
 
 ---
 src: ./ece.md

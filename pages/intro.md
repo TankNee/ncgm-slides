@@ -5,7 +5,7 @@ figureUrl: assets/example1.png
 figureFootnoteNumber: 1
 ---
 
-## Background
+## 1. Background
 
 TSR (table structure recognition) task is recognizing the physical and logical structure of tables which are usually represented by image. 
 

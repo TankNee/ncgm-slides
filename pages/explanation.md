@@ -5,6 +5,9 @@ figureUrl: assets/ablation1.png
 ---
 ## Ablation Study of Modality Fusion
 
+<Footnotes separator>
+  <Footnote>P: Precision, R: Recall, F1: F1 score. Metric: IoU(Coincidence ratio between the predicted area and the target area)</Footnote>
+</Footnotes>
 
 ---
 layout: figure
@@ -12,6 +15,10 @@ figureCaption: Modality Fusion Abalation Study
 figureUrl: assets/ablation2.png
 ---
 ## Ablation Study of Multi-Modality
+
+<Footnotes separator>
+  <Footnote>P: Precision, R: Recall, F1: F1 score. Metric: IoU(Coincidence ratio between the predicted area and the target area)</Footnote>
+</Footnotes>
 
 ---
 
