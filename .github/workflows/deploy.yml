@@ -17,7 +17,7 @@ jobs:
       - name: Merge assets
         run: |
           cp -r assets/* dist/assets/
-          cp slides-export.pdf dist/assets/
+          cp slides-export.pdf dist/
       - name: Deploy pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
