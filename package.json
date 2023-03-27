@@ -2,7 +2,7 @@
   "name": "ncgm-slides",
   "private": true,
   "scripts": {
-    "build": "slidev build --base /ncgm-slides/",
+    "build": "slidev build",
     "dev": "slidev --open --remote",
     "export": "slidev export"
   },

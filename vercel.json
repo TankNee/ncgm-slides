@@ -2,6 +2,6 @@
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ],
-  "buildCommand": "npm run build",
+  "buildCommand": "npm run build && npm run export && cp -r assets/* dist/assets/ && cp slides-export.pdf dist/",
   "outputDirectory": "dist"
 }
