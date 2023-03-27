@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "build": "slidev build",
+    "gh-build": "slidev build --base /ncgm-slides/",
     "dev": "slidev --open --remote",
     "export": "slidev export"
   },
