@@ -54,10 +54,12 @@ In table recognition, inductive biases of different modalities may affect the pe
 
 For example, when identifying regular tables, the coordinates of tables will dominate, but when dealing with distorted tables, they will become unreliable.
 
+![Distorted and Regular table](assets/example3.png)
+
 ---
 layout: figure-side
-figureCaption: Early (Late) fusion-based method with NCGM.
-figureUrl: assets/structure1.svg
+figureCaption: Intra-modality and Inter-modality.
+figureUrl: assets/intra-inter.svg
 ---
 
 ## Hetero-TSR Problem
