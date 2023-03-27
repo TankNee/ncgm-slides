@@ -7,7 +7,7 @@ figureFootnoteNumber: 1
 
 ## 2. Model Architecture
 
-1. Three modality: **Geometry**, **Appearance** and **Content**
+1. Three modalities: **Geometry**, **Appearance** and **Content**
 2. Collaborative block: **ECE** (Intra modality) and **CCS** (Inter modality)
 3. Structure prediction: **Fully connected layers**
 
@@ -87,7 +87,7 @@ Is to predict whether two nodes (cell) are in the same row, the same column, and
 
 ---
 layout: figure
-figureCaption: Post processing.
+figureCaption: Post processing. Convert adjacency matrix containing relationships to spanning information.
 figureUrl: assets/prediction2.png
 ---
 

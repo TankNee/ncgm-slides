@@ -30,6 +30,7 @@ Separate attention heads may learn to look for various relationships between inp
 
 - How do different modalities collaborate with each other?
 
+Multi-head Attention.
 
 <Footnotes separator>
   <Footnote :number=1><a href="" rel="noreferrer" target="_blank">Sparse and constrained attention for neural machine translation.</a></Footnote>
