@@ -1,7 +1,7 @@
 ---
 layout: figure-side
 figureCaption: Early (Late) fusion-based method with NCGM.
-figureUrl: assets/structure1.svg
+figureUrl: images/structure1.svg
 ---
 
 ## Comparison
@@ -13,7 +13,7 @@ NCGM utilize **graph** to construct different modality relationship, and achieve
 ---
 layout: figure-side
 figureCaption: Early (Late) fusion-based method with NCGM.
-figureUrl: assets/structure1.svg
+figureUrl: images/structure1.svg
 ---
 ## Related Work
 

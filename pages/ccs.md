@@ -1,7 +1,7 @@
 ---
 layout: figure-side
 figureCaption: CCS Module Architecture
-figureUrl: assets/ccs1.png
+figureUrl: images/ccs1.png
 ---
 
 ## CCS Module

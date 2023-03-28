@@ -1,7 +1,7 @@
 ---
 layout: figure-side
 figureCaption: ICDAR 2013 Partial and ICDAR 2019
-figureUrl: assets/result1.png
+figureUrl: images/result1.png
 ---
 ## 3. Result
 
@@ -17,7 +17,7 @@ Evaluation setting: Different methods utilize different information. Some method
 ---
 layout: figure
 figureCaption: SciTSR and SciTSR-COMP
-figureUrl: assets/result2.png
+figureUrl: images/result2.png
 ---
 ## 3. Result
 
@@ -27,7 +27,7 @@ figureUrl: assets/result2.png
 ---
 layout: figure-side
 figureCaption: Logical structure recognition
-figureUrl: assets/result3.png
+figureUrl: images/result3.png
 ---
 ## Result
 

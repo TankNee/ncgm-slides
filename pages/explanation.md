@@ -1,7 +1,7 @@
 ---
 layout: figure
 figureCaption: Modality Fusion Abalation Study
-figureUrl: assets/ablation1.png
+figureUrl: images/ablation1.png
 ---
 ## Ablation Study of Modality Fusion
 
@@ -12,7 +12,7 @@ figureUrl: assets/ablation1.png
 ---
 layout: figure
 figureCaption: Modality Fusion Abalation Study
-figureUrl: assets/ablation2.png
+figureUrl: images/ablation2.png
 ---
 ## Ablation Study of Multi-Modality
 

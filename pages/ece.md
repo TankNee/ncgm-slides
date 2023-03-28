@@ -1,7 +1,7 @@
 ---
 layout: figure-side
 figureCaption: ECE Module Architecture
-figureUrl: assets/ece1.png
+figureUrl: images/ece1.png
 ---
 
 ## ECE Module
@@ -13,7 +13,7 @@ This input $\mathbf{C}_{(l-1)}^{\sim}$ is copied into two copies, one as the **Q
 ---
 layout: figure
 figureCaption: Graph Building Module
-figureUrl: assets/build-graph1.svg
+figureUrl: images/build-graph1.svg
 ---
 
 ## ECE Module
@@ -22,7 +22,7 @@ $\mathbf{G}^{\sim}=$ $\{\mathcal{V}, \mathcal{E}\} \in\left\{\mathbf{G}^{\mathrm
 
 ---
 layout: figure
-figureUrl: assets/build-graph1.svg
+figureUrl: images/build-graph1.svg
 ---
 
 ## ECE Module
@@ -37,7 +37,7 @@ Authors adopt the following asymmetric edge function to combine graph edge featu
 ---
 layout: figure-side
 figureCaption: Compressed Multi-head Attention Module
-figureUrl: assets/cmha1.png
+figureUrl: images/cmha1.png
 ---
 
 ## CMHA Module
@@ -47,7 +47,7 @@ Compressed Multi-Head Attention (CMHA) module which has been verified that it ma
 ---
 layout: figure-side
 figureCaption: Compressed Multi-head Attention Module
-figureUrl: assets/cmha1.png
+figureUrl: images/cmha1.png
 ---
 
 ## CMHA Module

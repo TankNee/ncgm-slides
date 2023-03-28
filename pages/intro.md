@@ -1,7 +1,7 @@
 ---
 layout: figure-side
 figureCaption: An example of table structure recognition
-figureUrl: assets/example1.png
+figureUrl: images/example1.png
 figureFootnoteNumber: 1
 ---
 
@@ -18,7 +18,7 @@ The conventional digital table image recognition has been relatively mature.Rece
 ---
 layout: figure-side
 figureCaption: An example of physical structure and logical structure
-figureUrl: assets/example2.svg
+figureUrl: images/example2.svg
 ---
 
 ## Logical Structure
@@ -32,7 +32,7 @@ Physical structure focuses on the coordinates of cells boxes.
 ---
 layout: figure
 figureCaption: Distorted vs Regular Table
-figureUrl: assets/example3.png
+figureUrl: images/example3.jpg
 figureFootnoteNumber: 1
 ---
 
@@ -54,12 +54,11 @@ In table recognition, inductive biases of different modalities may affect the pe
 
 For example, when identifying regular tables, the coordinates of tables will dominate, but when dealing with distorted tables, they will become unreliable.
 
-![Distorted and Regular table](assets/example3.png)
 
 ---
 layout: figure-side
 figureCaption: Intra-modality and Inter-modality.
-figureUrl: assets/intra-inter.svg
+figureUrl: images/intra-inter.svg
 ---
 
 ## Hetero-TSR Problem
