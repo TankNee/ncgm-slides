@@ -1,7 +1,7 @@
 ---
 layout: figure
 figureCaption: The architecture of NCGM.
-figureUrl: images/structure2.png
+figureUrl: assets/structure2.png
 figureFootnoteNumber: 1
 ---
 
@@ -50,7 +50,7 @@ $\mathbf{F}^{\mathrm{C}} \in$ $\mathbb{R}^{N \times d}$, The Content modality ma
 ---
 layout: figure
 figureCaption: Three modalities
-figureUrl: images/modality1.svg
+figureUrl: assets/modality1.svg
 ---
 
 ## Feature Extraction
@@ -66,7 +66,7 @@ src: ./ccs.md
 ---
 layout: figure-side
 figureCaption: Predicting the structure of the table.
-figureUrl: images/prediction1.png
+figureUrl: assets/prediction1.png
 ---
 
 ## Structure Prediction
@@ -88,7 +88,7 @@ Is to predict whether two nodes (cell) are in the same row, the same column, and
 ---
 layout: figure
 figureCaption: Post processing. Convert adjacency matrix containing relationships to spanning information.
-figureUrl: images/prediction2.png
+figureUrl: assets/prediction2.png
 ---
 
 ## Structure Prediction

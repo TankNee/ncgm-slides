@@ -2,7 +2,7 @@
 theme: academic
 download: './slides-export.pdf'
 layout: cover
-coverBackgroundUrl: images/bg.webp
+coverBackgroundUrl: assets/bg.webp
 class: 'text-white'
 coverDate: 2023/04/01
 coverAuthor: CVPR 2022 Hao Liu, et al. (Tencent). Reporter-TongKe Nee
@@ -39,7 +39,7 @@ Tests on various open data sets show the **effectiveness** of the method, and th
 
 ---
 layout: cover
-coverBackgroundUrl: images/bg.webp
+coverBackgroundUrl: assets/bg.webp
 class: 'text-white'
 coverDate: 2023/04/01
 ---

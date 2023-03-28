@@ -1,7 +1,7 @@
 ---
 layout: figure-side
 figureCaption: An example of table structure recognition
-figureUrl: images/example1.png
+figureUrl: assets/example1.png
 figureFootnoteNumber: 1
 ---
 
@@ -18,7 +18,7 @@ The conventional digital table image recognition has been relatively mature.Rece
 ---
 layout: figure-side
 figureCaption: An example of physical structure and logical structure
-figureUrl: images/example2.svg
+figureUrl: assets/example2.svg
 ---
 
 ## Logical Structure
@@ -32,7 +32,7 @@ Physical structure focuses on the coordinates of cells boxes.
 ---
 layout: figure
 figureCaption: Distorted vs Regular Table
-figureUrl: images/example3.jpg
+figureUrl: assets/example3.jpg
 figureFootnoteNumber: 1
 ---
 
@@ -58,7 +58,7 @@ For example, when identifying regular tables, the coordinates of tables will dom
 ---
 layout: figure-side
 figureCaption: Intra-modality and Inter-modality.
-figureUrl: images/intra-inter.svg
+figureUrl: assets/intra-inter.svg
 ---
 
 ## Hetero-TSR Problem
