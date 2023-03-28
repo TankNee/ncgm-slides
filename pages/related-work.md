@@ -11,9 +11,6 @@ Traditional multi-modal fusion methods lack of attention to modal collaboration,
 NCGM utilize **graph** to construct different modality relationship, and achieves good performance on the **distorted tables**.
 
 ---
-layout: figure-side
-figureCaption: Early (Late) fusion-based method with NCGM.
-figureUrl: assets/structure1.svg
 ---
 ## Related Work
 
