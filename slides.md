@@ -31,7 +31,7 @@ src: ./pages/explanation.md
 
 ## Conclusion
 
-Author proposed a novel graph-based method for heterogeneous table structure recognition through **intra-modality and inter-modality collaboration**.
+Authors proposed a novel graph-based method for heterogeneous table structure recognition through **intra-modality and inter-modality collaboration**.
 
 Tests on various open data sets show the **effectiveness** of the method, and the importance of multi-modal cooperation for table structure identification.
 
