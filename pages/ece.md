@@ -42,16 +42,6 @@ figureUrl: assets/cmha1.png
 
 ## CMHA Module
 
-Compressed Multi-Head Attention (CMHA) module which has been verified that it makes few assumptions about inputs and can learn to combine local behavior and global behavior on input stream.
-
----
-layout: figure-side
-figureCaption: Compressed Multi-head Attention Module
-figureUrl: assets/cmha1.png
----
-
-## CMHA Module
-
 In order to reduce the amount of computation caused by too many dimensions, we introduce a memory compression module. In addition, we also introduce residual links to make the query information ﬂow unimpeded.
 
 $$
