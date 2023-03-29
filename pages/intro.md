@@ -21,13 +21,9 @@ figureCaption: An example of physical structure and logical structure
 figureUrl: assets/example2.svg
 ---
 
-## Logical Structure
+## Logical and Physical Position
 
-Logical structure only focuses on the relationship between cells wheather they are in the same row or column or cells.
-
-## Physical Structure
-
-Physical structure focuses on the coordinates of cells boxes.
+The smallest unit in table recognition is text segment bounding box, and the task is to predict the position of each bounding box, in which the logical position refers to the row position (start (end) row, start (end) column), and the physical position refers to the coordinate position $(x, y, w, h)$.
 
 ---
 layout: figure
